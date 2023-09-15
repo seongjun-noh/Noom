@@ -5,3 +5,5 @@ B
 src/server.js,1/3/13e00d296f20c95185b2ca268bf5dff6e7c0d96b
 D
 src/public/js/app.js,8/3/8324c0d30c2deec8f15ab0d35a70934fb18db9ac
+A
+babel.config.json,5/8/583d98cb89ece0bc02e2430af46f338c74427084
